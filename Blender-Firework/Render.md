@@ -1,30 +1,34 @@
 ---English---
 
-This is a rendered image of a glowing leaf particle scene for Blender. 
+This is a Blender scene for creating a fireworks simulation using a particle system. 
 
-Rendering settings
+Rendering settings: 
 
-Rendering engine: Cycles
+Rendering engine: Eevee, 
 
-Sampling rate: 128
+Sampling: 64, 
 
 Denoising: None. 
 
-Please try rendering the video yourself!
+Check out the video! 
+
+https://www.youtube.com/watch?v=20VP12arQvY
 
 
 ---日本語---
 
-これは、Blender用の光る葉のパーティクル シーンのレンダリング画像です。
+これは、パーティクルシステムを使用して花火のシミュレーションを作成するためのBlenderシーンです。
 
 レンダリング設定 
 
-レンダリング エンジン: Cycles 
+レンダリング エンジン: Eevee
 
-サンプリング レート: 128 
+サンプリング レート: 64
 
 ノイズ除去: なし。
 
-ぜひ動画のレンダリングをお試しください！
+動画をご確認ください！
 
-![Preview](Glowing%20Leaves.png)
+https://www.youtube.com/watch?v=20VP12arQvY
+
+![Preview](Firework.png)
