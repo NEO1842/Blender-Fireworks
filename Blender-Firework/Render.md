@@ -12,7 +12,7 @@ Denoising: None.
 
 Check out the video! 
 
-https://www.youtube.com/watch?v=20VP12arQvY
+https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=sharing
 
 
 ---日本語---
@@ -29,6 +29,6 @@ https://www.youtube.com/watch?v=20VP12arQvY
 
 動画をご確認ください！
 
-https://www.youtube.com/watch?v=20VP12arQvY
+https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=sharing
 
 ![Preview](Firework.png)
