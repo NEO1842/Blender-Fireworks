@@ -20,12 +20,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Credit
+# Credit
 
 If you use or redistribute this project, please include a link to the original repository:https://github.com/NEO1842/Blender-Fireworks
 
 ---
 
-クレジット
+# クレジット
 
 このプロジェクトを使用または再配布する場合は、元のリポジトリへのリンクを記載してください：https://github.com/NEO1842/Blender-Fireworks
