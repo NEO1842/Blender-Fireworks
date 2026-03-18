@@ -1,3 +1,5 @@
+--English--
+
 Blender Fireworks
 
 This is a Blender scene for creating a fireworks simulation using a particle system.
@@ -44,6 +46,8 @@ The creator is not responsible for any issues arising from the use of this proje
 Please comply with the laws and license conditions of your country.
 
 ---
+
+--日本語--
 
 Blender花火
 
