@@ -1,15 +1,14 @@
+<p align="center">
+---English---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the image to watch the animation.
+</p>
+
 <div align="center">
 
 <a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
-<img src="Blender-Fireworks/Fireworks.png" width="600">
+<img src="Blender-Firework/Firework.png" width="600">
 </a>
 
 </div>
-
---English--
-
-
-
 
 Blender Fireworks
 
@@ -57,8 +56,17 @@ The creator is not responsible for any issues arising from the use of this proje
 Please comply with the laws and license conditions of your country.
 
 ---
+<p align="center">
+---日本語---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;画像をクリックするとアニメーションが再生されます。
+</p>
 
---日本語--
+<div align="center">
+
+<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
+<img src="Blender-Firework/Firework.png" width="600">
+</a>
+
+</div>
 
 Blender花火
 
