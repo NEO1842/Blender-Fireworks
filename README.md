@@ -10,7 +10,7 @@
 
 </div>
 
-Blender Fireworks
+# Blender Fireworks
 
 This is a Blender scene for creating a fireworks simulation using a particle system.
 
@@ -68,7 +68,7 @@ Please comply with the laws and license conditions of your country.
 
 </div>
 
-Blender花火
+# Blender花火
 
 これは、パーティクルシステムを使用して花火のシミュレーションを作成するためのBlenderシーンです。
 
