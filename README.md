@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view">
-<img src="Fireworks/Fireworks.png" width="600">
+<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
+<img src="Blender-Fireworks/Fireworks.png" width="600">
 </a>
 
 </div>
