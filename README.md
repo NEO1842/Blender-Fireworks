@@ -8,8 +8,6 @@
 <img src="Blender-Firework/Firework.png" width="600">
 </a>
 
-</div>
-
 # Blender Fireworks
 
 This is a Blender scene for creating a fireworks simulation using a particle system.
@@ -23,11 +21,11 @@ Rendering Engine: Eevee
 
 ## -How to Use-
 
-1. Download and open Fireworks.blend
+　1. Download and open Fireworks.blend
 
-2. Play the animation to see the fireworks effect.
+　2. Play the animation to see the fireworks effect.
 
-3. Render the animation as MP4 (4K recommended).
+　3. Render the animation as MP4 (4K recommended).
 
 ## -Rendering Settings-
 
@@ -41,9 +39,9 @@ Output Format: MP4 (H.264)
 
 ## -Features-
 
-* Particle-based fireworks simulation
-* 4K MP4 output support
-* Lightweight and real-time rendering with Eevee
+　* Particle-based fireworks simulation
+　* 4K MP4 output support
+　* Lightweight and real-time rendering with Eevee
 
 # -Redistribution-
 
@@ -66,8 +64,6 @@ Please comply with the laws and license conditions of your country.
 <img src="Blender-Firework/Firework.png" width="600">
 </a>
 
-</div>
-
 # Blender花火
 
 これは、パーティクルシステムを使用して花火のシミュレーションを作成するためのBlenderシーンです。
@@ -80,9 +76,9 @@ Blenderバージョン：3.4　レンダリングエンジン：Eevee
 # -使用方法-
 Fireworks.blendをダウンロードして開いてください。
 
-アニメーションを再生して、花火の効果をご覧ください。
+ 1. アニメーションを再生して、花火の効果をご覧ください。
 
-アニメーションをMP4形式でレンダリングしてください（4K推奨）。
+ 2. アニメーションをMP4形式でレンダリングしてください（4K推奨）。
 
 # -レンダリング設定-
 レンダリングエンジン：Eevee
