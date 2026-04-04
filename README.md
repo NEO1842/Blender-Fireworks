@@ -1,3 +1,5 @@
+<h1 align="center">Blender Fireworks</h1>
+
 <p align="center">
 ---English---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the image to watch the animation.
 </p>
@@ -54,6 +56,9 @@ The creator is not responsible for any issues arising from the use of this proje
 Please comply with the laws and license conditions of your country.
 
 ---
+
+<h1 align="center">Blender Fireworks</h1>
+
 <p align="center">
 ---日本語---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;画像をクリックするとアニメーションが再生されます。
 </p>
@@ -64,7 +69,7 @@ Please comply with the laws and license conditions of your country.
 <img src="Blender-Firework/Firework.png" width="600">
 </a>
 
-# Blender花火
+# Blender Fireworks
 
 これは、パーティクルシステムを使用して花火のシミュレーションを作成するためのBlenderシーンです。
 
