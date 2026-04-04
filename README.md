@@ -34,7 +34,7 @@ Rendering Engine: Eevee
 Sampling: 64
 Bloom: Enabled
 
-Resolution: 3840×2160 (4K)
+Resolution: 4096×4096 (4K)
 Output Format: MP4 (H.264)
 
 ## -Features-
@@ -85,7 +85,7 @@ Fireworks.blendをダウンロードして開いてください。
 
 サンプリング: 64 ブルーム: 有効
 
-解像度：3840×2160（4K）出力フォーマット：MP4（H.264）
+解像度：4096×4096（4K）出力フォーマット：MP4（H.264）
 
 # -特徴-
 粒子ベースの花火シミュレーション
