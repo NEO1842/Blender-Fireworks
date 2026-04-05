@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1HE3ecHKr2pIXDoAxq6d20R7aDVHo8BiK/view?usp=drive_link">
 <img src="Blender%20Firework/Firework.png" width="600">
 </a>
 
@@ -65,7 +65,7 @@ Please comply with the laws and license conditions of your country.
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1HE3ecHKr2pIXDoAxq6d20R7aDVHo8BiK/view?usp=drive_link">
 <img src="Blender%20Firework/Firework.png" width="600">
 </a>
 
