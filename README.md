@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
-<img src="Blender-Firework/Firework.png" width="600">
+<img src="Blender%20Firework/Firework.png" width="600">
 </a>
 
 # Blender Fireworks
@@ -66,7 +66,7 @@ Please comply with the laws and license conditions of your country.
 <div align="center">
 
 <a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
-<img src="Blender-Firework/Firework.png" width="600">
+<img src="Blender%20Firework/Firework.png" width="600">
 </a>
 
 # Blender Fireworks
