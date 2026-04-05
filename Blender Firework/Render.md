@@ -12,7 +12,7 @@ Denoising: None.
 
 Check out the video! 
 
-https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link
+https://drive.google.com/file/d/1HE3ecHKr2pIXDoAxq6d20R7aDVHo8BiK/view?usp=drive_link
 
 ---日本語---
 
@@ -28,6 +28,6 @@ https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive
 
 動画をご確認ください！
 
-https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link
+https://drive.google.com/file/d/1HE3ecHKr2pIXDoAxq6d20R7aDVHo8BiK/view?usp=drive_link
 
 ![Preview](Firework.png)
