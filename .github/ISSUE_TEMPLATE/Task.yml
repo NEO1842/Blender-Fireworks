@@ -2,10 +2,25 @@ name: 📋 Task
 description: General task
 title: "[Task]: "
 labels: ["task", "triage"]
+
 body:
   - type: textarea
     id: summary
     attributes:
       label: Summary
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
     validations:
       required: true
