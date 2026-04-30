@@ -1,38 +1,28 @@
 # 🛡️ Security Policy
 
-## 📢 Reporting a Vulnerability
+## 📢 Reporting Issues
 
-If you discover a security issue, please report it **privately**.
+If you discover a potential issue, please report it privately if possible.
 
-- Do NOT open a public issue
-- Contact the maintainer directly if possible
+Avoid opening public issues for sensitive problems.
 
 ---
 
 ## 🔍 Scope
 
-This repository mainly contains Blender (.blend) files and assets.
+This repository contains Blender (.blend) files only.
 
-Potential risks may include:
-- Malicious scripts embedded in .blend files
-- Unexpected behavior from drivers or Python scripts
+No external scripts or executables are included.
 
 ---
 
-## ⚡ Guidelines
+## ⚡ Notes
 
-- Always verify .blend files before using them in production
-- Avoid running unknown scripts inside Blender
-- Use trusted environments when testing files
+- Use Blender from official sources
+- Open files in a trusted environment
 
 ---
 
 ## ⏱ Response
 
-We will review and respond as soon as possible.
-
----
-
-## 🙏 Responsible Disclosure
-
-Please allow time to fix the issue before publicly disclosing it.
+We will review reports as soon as possible.
