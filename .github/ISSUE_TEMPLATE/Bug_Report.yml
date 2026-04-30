@@ -14,3 +14,17 @@ body:
     id: steps
     attributes:
       label: Steps to reproduce
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      description: Select the priority level
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
+    validations:
+      required: true
