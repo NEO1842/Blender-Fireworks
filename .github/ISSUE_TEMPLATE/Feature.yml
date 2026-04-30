@@ -2,10 +2,25 @@ name: ✨ Feature Request
 description: Suggest a feature
 title: "[Feature]: "
 labels: ["enhancement", "triage"]
+
 body:
   - type: textarea
     id: idea
     attributes:
       label: Idea
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
     validations:
       required: true
